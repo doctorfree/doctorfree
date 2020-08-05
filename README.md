@@ -26,6 +26,11 @@
 - ["Dr. Benway" written and performed by Maitland](https://www.youtube.com/watch?v=21vUdKaN7bw)
 - [Texture, Lights, Color spinning Mandelbrot Zoom with Frax](https://www.youtube.com/watch?v=QiiI6JlE4v8)
 - [Chas and Maitland at Pono 4/16/2017](https://www.youtube.com/watch?v=s3EfCgeMpsU)
+- [Mandelbrot Zoom with Frax](https://www.youtube.com/watch?v=p5vcmT6d-Tc)
+- [Gametime](https://www.youtube.com/watch?v=-WUaK85sFbg)
+- [Pride by The Artichoke Project with Video Feedback](https://www.youtube.com/watch?v=m7jgAlaDtzw)
+- [My Ripping Station](https://www.youtube.com/watch?v=PNBnQGEh8qk)
+- [Corporations Are People](https://www.youtube.com/watch?v=MsMqG2_rpvc)
 <!-- YOUTUBE:END -->
 
 ---
