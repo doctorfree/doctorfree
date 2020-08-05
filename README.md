@@ -21,6 +21,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [My First MagicMirror](https://www.youtube.com/watch?v=oyKl6JpFHlw)
+- [My Magic Mirror - Intro](https://www.youtube.com/watch?v=c6mqFXFktRk)
+- ["Dr. Benway" written and performed by Maitland](https://www.youtube.com/watch?v=21vUdKaN7bw)
+- [Texture, Lights, Color spinning Mandelbrot Zoom with Frax](https://www.youtube.com/watch?v=QiiI6JlE4v8)
+- [Chas and Maitland at Pono 4/16/2017](https://www.youtube.com/watch?v=s3EfCgeMpsU)
 <!-- YOUTUBE:END -->
 
 ---
