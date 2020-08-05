@@ -32,6 +32,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MagicMirror Open Source Smart Mirror Platform](https://blog.ronrecord.com/index.php/2020/02/18/magicmirror-open-source-smart-mirror-platform/)
+- [Michael J. Pollard – American Character Actor](https://blog.ronrecord.com/index.php/2019/11/22/michael-j-pollard-american-character-actor/)
+- [The Apple Watch Is Amazing](https://blog.ronrecord.com/index.php/2019/11/20/the-apple-watch-is-amazing/)
+- [The Baby Got Back Wikipedia Edit War of 2010](https://blog.ronrecord.com/index.php/2019/04/15/the-baby-got-back-wikipedia-edit-war-of-2010/)
+- [The Mass Imprisonment of American Women Believed to be Sexually Immoral](https://blog.ronrecord.com/index.php/2019/03/31/the-mass-imprisonment-of-american-women-believed-to-be-sexually-immoral/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
