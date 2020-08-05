@@ -21,12 +21,22 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [My First MagicMirror](https://www.youtube.com/watch?v=oyKl6JpFHlw)
+- [My Magic Mirror - Intro](https://www.youtube.com/watch?v=c6mqFXFktRk)
+- ["Dr. Benway" written and performed by Maitland](https://www.youtube.com/watch?v=21vUdKaN7bw)
+- [Texture, Lights, Color spinning Mandelbrot Zoom with Frax](https://www.youtube.com/watch?v=QiiI6JlE4v8)
+- [Chas and Maitland at Pono 4/16/2017](https://www.youtube.com/watch?v=s3EfCgeMpsU)
 <!-- YOUTUBE:END -->
 
 ---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [MagicMirror Open Source Smart Mirror Platform](https://blog.ronrecord.com/index.php/2020/02/18/magicmirror-open-source-smart-mirror-platform/)
+- [Michael J. Pollard – American Character Actor](https://blog.ronrecord.com/index.php/2019/11/22/michael-j-pollard-american-character-actor/)
+- [The Apple Watch Is Amazing](https://blog.ronrecord.com/index.php/2019/11/20/the-apple-watch-is-amazing/)
+- [The Baby Got Back Wikipedia Edit War of 2010](https://blog.ronrecord.com/index.php/2019/04/15/the-baby-got-back-wikipedia-edit-war-of-2010/)
+- [The Mass Imprisonment of American Women Believed to be Sexually Immoral](https://blog.ronrecord.com/index.php/2019/03/31/the-mass-imprisonment-of-american-women-believed-to-be-sexually-immoral/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
