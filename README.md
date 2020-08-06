@@ -51,7 +51,7 @@
 
 ---
 
-<img align="left" alt="doctorfree's Github Stats" src="https://github-readme-stats.vercel.app/api?username=doctorfree&them=tokyonight&show_icons=true&hide_border=true" />
+<img align="left" alt="doctorfree's Github Stats" src="https://github-readme-stats.vercel.app/api?username=doctorfree&theme=tokyonight&show_icons=true&hide_border=true" />
 
 [website]: https://ronrecord.com
 [eloquentcloud]: https://eloquentcloud.com
