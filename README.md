@@ -37,6 +37,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [The Buddhabrot Fractal, Mandelbrot Set, and The Logistic Map](https://blog.ronrecord.com/index.php/2020/03/06/the-buddhabrot-fractal-mandelbrot-set-and-the-logistic-map/)
 - [MagicMirror Open Source Smart Mirror Platform](https://blog.ronrecord.com/index.php/2020/02/18/magicmirror-open-source-smart-mirror-platform/)
 - [Michael J. Pollard – American Character Actor](https://blog.ronrecord.com/index.php/2019/11/22/michael-j-pollard-american-character-actor/)
 - [The Apple Watch Is Amazing](https://blog.ronrecord.com/index.php/2019/11/20/the-apple-watch-is-amazing/)
@@ -46,7 +47,6 @@
 - [How To Run High Use Apps During Off-Peak Hours](https://blog.ronrecord.com/index.php/2019/03/29/how-to-run-high-use-apps-during-off-peak-hours/)
 - [Us vs Them, Manufactured Revenge Porn & Democracy](https://blog.ronrecord.com/index.php/2019/03/19/us-vs-them-manufactured-revenge-porn-democracy/)
 - [Kikagaku Moyo at Fernwood Tavern in Big Sur 3/10/2019](https://blog.ronrecord.com/index.php/2019/03/12/kikagaku-moyo-at-fernwood-tavern-in-big-sur-3-10-2019/)
-- [Santa Cruz Surfer Monument](https://blog.ronrecord.com/index.php/2019/03/09/santa-cruz-surfer-monument/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
