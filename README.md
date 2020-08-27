@@ -1,7 +1,7 @@
 ### Howdy, I'm Ronnie - aka [ronrecord][website] 👋
 
 ## Note: I moved most of my repositories to Gitlab and they are mirrored here
-### See [my Gitlab profile][https://gitlab.com/doctorfree]
+### See [https://gitlab.com/doctorfree] to access these repositories
 
 ## I'm a Father, Developer, Mathematician, Dancer, and Collector!
 - 🔭 I’m currently working on Eloquent Cloud projects [eloquentcloud]!
