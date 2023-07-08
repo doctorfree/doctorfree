@@ -10,7 +10,7 @@
   <a href="https://en.wikipedia.org/wiki/User:Doctorfree"><img align="center" height="40" src="icons/wikipedia.png"/></a>
 </p>
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/doctorfree/doctorfree/master/assets/github-snake-dark.svg" />
+  <img width="600" src="https://raw.githubusercontent.com/doctorfree/doctorfree/assets/github-snake-dark.svg" />
 </p>
 
 ## Howdy, I'm Ronnie
