@@ -10,7 +10,7 @@
   <a href="https://en.wikipedia.org/wiki/User:Doctorfree"><img align="center" height="40" src="icons/wikipedia.png"/></a>
 </p>
 <p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/doctorfree/doctorfree/master/assets/github-snake.svg" />
+  <img width="600" src="https://raw.githubusercontent.com/doctorfree/doctorfree/master/assets/github-snake-dark.svg" />
 </p>
 
 ## Howdy, I'm Ronnie
@@ -48,6 +48,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+
 - [Obsidian Media Vault Graph View](https://www.youtube.com/watch?v=a3PrNh2Xntw)
 - [Asciiville Ascii Art Waterfalls](https://www.youtube.com/watch?v=PdSI9YNBJ5A)
 - [Asciiville Vintage Ascii Art in Cool Retro Term](https://www.youtube.com/watch?v=lDKJB8OOmaw)
@@ -65,6 +66,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Ascii Art History](https://blog.ronrecord.com/index.php/2022/05/27/ascii-art-history/)
 - [The Buddhabrot Fractal, Mandelbrot Set, and The Logistic Map](https://blog.ronrecord.com/index.php/2020/03/06/the-buddhabrot-fractal-mandelbrot-set-and-the-logistic-map/)
 - [MagicMirror Open Source Smart Mirror Platform](https://blog.ronrecord.com/index.php/2020/02/18/magicmirror-open-source-smart-mirror-platform/)
@@ -80,9 +82,3 @@
 ---
 
 [![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/doctorfree?theme=tokyonight&Ring=DD2727&Border=13DD57&Text=DD2727&cardType=github)](https://git.io/awesome-stats-card)
-
-[website]: https://ronrecord.com
-[twitter]: https://twitter.com/ronrecord
-[youtube]: https://youtube.com/c/doctorfree
-[instagram]: https://instagram.com/doctorfree
-[linkedin]: https://linkedin.com/in/ronrecord
