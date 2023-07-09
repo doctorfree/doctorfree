@@ -48,7 +48,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-
 - [Obsidian Media Vault Graph View](https://www.youtube.com/watch?v=a3PrNh2Xntw)
 - [Asciiville Ascii Art Waterfalls](https://www.youtube.com/watch?v=PdSI9YNBJ5A)
 - [Asciiville Vintage Ascii Art in Cool Retro Term](https://www.youtube.com/watch?v=lDKJB8OOmaw)
