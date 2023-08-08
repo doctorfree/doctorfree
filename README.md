@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://ronrecord.com"><img align="center" height="40" src="icons/domain.png"/></a>
   <a href="https://www.reddit.com/user/No-Blackberry-3160"><img align="center" height="40" src="icons/reddit.png"/></a>
+  <a href="https://github.com/doctorfree"><img align="center" height="40" src="icons/github.png"/></a>
   <a href="https://gitlab.com/doctorfree"><img align="center" height="40" src="icons/gitlab.png"/></a>
   <a href="https://twitter.com/ronrecord"><img align="center" height="40" src="icons/twitter.png"/></a>
   <a href="https://youtube.com/c/doctorfree"><img align="center" height="40" src="icons/youtube.png"/></a>
