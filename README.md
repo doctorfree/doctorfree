@@ -80,4 +80,7 @@
 
 ---
 
-[![My Github Stats](https://awesome-github-stats.azurewebsites.net/user-stats/doctorfree?theme=tokyonight&Ring=DD2727&Border=13DD57&Text=DD2727&cardType=github)](https://git.io/awesome-stats-card)
+<div align="center">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=doctorfree&theme=radical" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doctorfree&theme=radical" height="180em" />
+</div>
