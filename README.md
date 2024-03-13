@@ -81,6 +81,6 @@
 ---
 
 <div align="center">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=doctorfree&theme=dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doctorfree&theme=dark" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=doctorfree&theme=transparent" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=doctorfree&theme=transparent" height="180em" />
 </div>
