@@ -18,6 +18,9 @@
 
 ## Current projects include
 
+- [Borgsync](https://github.com/doctorfree/borgsync), wrapper to simplify and automate [Borg](https://www.borgbackup.org) backups to [rsync.net](https://www.rsync.net/) and [BorgBase](https://www.borgbase.com)
+- [Custom Kasm Workspaces and Registry](https://github.com/doctorfree/kasm-registry), build custom [Kasm workspaces](https://github.com/doctorfree/workspaces-images) and distribute through a [Kasm registry](https://doctorfree.github.io/kasm-registry/1.0)
+- [Kitty Control](https://github.com/doctorfree/kitty-control), control some aspects of the [Kitty terminal emulator](https://sw.kovidgoyal.net/kitty) from the command line
 - [Lazyman Neovim Configuration Manager](https://github.com/doctorfree/nvim-lazyman#readme), install, initialize, manage, and explore multiple Neovim configurations
 - [Asciiville](https://github.com/doctorfree/Asciiville#readme), ascii art with integration of asciimatics, asciinema, btop, gdu, tmux, ranger, and many character based utilities
 - [MusicPlayerPlus](https://github.com/doctorfree/MusicPlayerPlus#readme), integration of a music server, music clients, spectrum visualizer, and terminal emulators
@@ -28,14 +31,7 @@
 - [Doctorfree Obsidian theme](https://github.com/doctorfree/Obsidian-Doctorfree#readme), an Obsidian theme with many enhancements
 - [Markdown Pokédex](https://github.com/doctorfree/Pokedex-Markdown#readme), an Obsidian vault of a markdown format Pokémon Pokédex
 - [Cheat Sheets Plus](https://github.com/doctorfree/cheat-sheets-plus#readme), an Obsidian vault of cheat sheets
-- [Obsidian Media Vault](https://github.com/doctorfree/Obsidian-Media-Vault#readme), an Obsidian vault of Books, Records, and CDs with scripts to automate creation of media vaults
-- [Obsidian Snippets](https://github.com/doctorfree/Obsidian-Snippets#readme), an extensive collection of Obsidian CSS snippets
 - [DoctorFreeScripts](https://github.com/doctorfree/DoctorFreeScripts#readme), a suite of command line utilities for Unix/Linux/Mac OS X
-- [MMM-TelegramCommands](https://gitlab.com/doctorfree/MMM-TelegramCommands), a MagicMirror module that creates Telegram commands to control a MagicMirror via the MirrorCommandLine
-- [MMM-InstagramView](https://gitlab.com/doctorfree/MMM-InstagramView), a MagicMirror module for displaying your Instagram photos, videos, carousel albums, and post description. It makes use of the Facebook Instagram Graph API
-- [MMM-MacAddressScan](https://gitlab.com/doctorfree/MMM-MacAddressScan), A module for MagicMirror which determines the status of devices on the network based on their MAC address
-- NFT Selfie, a MagicMirror module that mints an NFT of a selfie of the person gazing at the mirror (in conceptual phase)
-- Solar powered cryptocurrency mining demonstration - this project also demonstrates how to utilize solar powered cryptocurrency miners to heat your home
 
 ## I'm a Father, Developer, Mathematician, Dancer, and Collector
 
