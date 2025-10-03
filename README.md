@@ -62,6 +62,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Setup a ProfitTrailer Cryptocurrency Trading Bot](https://blog.ronrecord.com/index.php/2025/10/02/how-to-setup-a-profittrailer-cryptocurrency-trading-bot/)
+- [In Defense of Demons](https://blog.ronrecord.com/index.php/2025/10/02/in-defense-of-demons/)
+- [MagicMirror Automated Installation and Configuration](https://blog.ronrecord.com/index.php/2025/10/02/magicmirror-automated-installation-and-configuration/)
 - [Ascii Art History](https://blog.ronrecord.com/index.php/2022/05/27/ascii-art-history/)
 - [The Buddhabrot Fractal, Mandelbrot Set, and The Logistic Map](https://blog.ronrecord.com/index.php/2020/03/06/the-buddhabrot-fractal-mandelbrot-set-and-the-logistic-map/)
 - [MagicMirror Open Source Smart Mirror Platform](https://blog.ronrecord.com/index.php/2020/02/18/magicmirror-open-source-smart-mirror-platform/)
@@ -69,9 +72,6 @@
 - [The Apple Watch Is Amazing](https://blog.ronrecord.com/index.php/2019/11/20/the-apple-watch-is-amazing/)
 - [The Baby Got Back Wikipedia Edit War of 2010](https://blog.ronrecord.com/index.php/2019/04/15/the-baby-got-back-wikipedia-edit-war-of-2010/)
 - [The Mass Imprisonment of American Women Believed to be Sexually Immoral](https://blog.ronrecord.com/index.php/2019/03/31/the-mass-imprisonment-of-american-women-believed-to-be-sexually-immoral/)
-- [PP Arnold’s Lost Masterpiece “The Turning Tide”](https://blog.ronrecord.com/index.php/2019/03/29/pp-arnolds-lost-masterpiece-the-turning-tide/)
-- [How To Run High Use Apps During Off-Peak Hours](https://blog.ronrecord.com/index.php/2019/03/29/how-to-run-high-use-apps-during-off-peak-hours/)
-- [Us vs Them, Manufactured Revenge Porn &amp; Democracy](https://blog.ronrecord.com/index.php/2019/03/19/us-vs-them-manufactured-revenge-porn-democracy/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
