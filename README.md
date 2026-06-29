@@ -62,6 +62,8 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Vodka онлайн казино – слоты и игры](https://blog.ronrecord.com/index.php/2026/06/28/vodka-onlayn-kazino-sloty-i-igry/)
+- [Пин Ап Казино Официальный Сайт – Играть в Онлайн Казино Pin Up](https://blog.ronrecord.com/index.php/2026/06/28/pin-ap-kazino-oficialnyy-sayt-igrat-v-onlayn-kazino-pin-up/)
 - [Betify Casino en Ligne | Jouez sur Betify avec 1000 €](https://blog.ronrecord.com/index.php/2026/06/26/betify-casino-en-ligne-jouez-sur-betify-avec-1000-eu/)
 - [Олимп казино официальный сайт в Казахстане – Olimp Casino](https://blog.ronrecord.com/index.php/2026/06/26/olimp-kazino-oficialnyy-sayt-v-kazahstane-olimp-casino/)
 - [1xbet France : aperçu complet et options disponibles](https://blog.ronrecord.com/index.php/2026/06/26/1xbet-france-apercu-complet-et-options-disponibles/)
@@ -70,8 +72,6 @@
 - [MagicMirror Automated Installation and Configuration](https://blog.ronrecord.com/index.php/2025/10/02/magicmirror-automated-installation-and-configuration/)
 - [Ascii Art History](https://blog.ronrecord.com/index.php/2022/05/27/ascii-art-history/)
 - [The Buddhabrot Fractal, Mandelbrot Set, and The Logistic Map](https://blog.ronrecord.com/index.php/2020/03/06/the-buddhabrot-fractal-mandelbrot-set-and-the-logistic-map/)
-- [MagicMirror Open Source Smart Mirror Platform](https://blog.ronrecord.com/index.php/2020/02/18/magicmirror-open-source-smart-mirror-platform/)
-- [Michael J. Pollard – American Character Actor](https://blog.ronrecord.com/index.php/2019/11/22/michael-j-pollard-american-character-actor/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
