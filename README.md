@@ -62,6 +62,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Shiny Wilds : dévoiler l’ultime expérience de casino en ligne](https://blog.ronrecord.com/index.php/2026/08/09/shiny-wilds-dvoiler-lultime-exprience-de-casino-en/)
 - [Zoom Casino: Quick Wins and High‑Intensity Slots for Busy Players](https://blog.ronrecord.com/index.php/2026/08/08/zoom-casino-quick-wins-and-highintensity-slots-for/)
 - [AmunRa Casino: Szybkie‑Automaty, Live Action i Natychmiastowe Wygrane – Ostateczne Doświadczenie Mobilne](https://blog.ronrecord.com/index.php/2026/08/07/amunra-casino-szybkieautomaty-live-action-i-natych/)
 - [King Chance Casino: Quick Play, Big Wins – A High‑Intensity Slot Experience](https://blog.ronrecord.com/index.php/2026/08/07/king-chance-casino-quick-play-big-wins-a-highinten/)
@@ -71,7 +72,6 @@
 - [Strategie_výher_v_online_hrách_a_casino_22bet_pro_nové_i_zkušené_hráče](https://blog.ronrecord.com/index.php/2026/08/07/strategie-vyher-v-online-hrach-a-casino-22bet-pro/)
 - [Royal Reels Casino: Quick‑Hit Slots for the Fast‑Paced Player](https://blog.ronrecord.com/index.php/2026/08/06/royal-reels-casino-quickhit-slots-for-the-fastpace/)
 - [Xon.Bet – Quick‑Hit Slots &amp; High‑Intensity Gaming Experience](https://blog.ronrecord.com/index.php/2026/08/06/xonbet-quickhit-slots-highintensity-gaming-experie/)
-- [Chicken Road: The High‑Intensity Crash Game That Keeps You on Your Toes](https://blog.ronrecord.com/index.php/2026/08/06/chicken-road-the-highintensity-crash-game-that-kee/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
