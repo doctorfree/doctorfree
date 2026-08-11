@@ -62,16 +62,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Shiny Wilds : dévoiler l’ultime expérience de casino en ligne](https://blog.ronrecord.com/index.php/2026/08/09/shiny-wilds-dvoiler-lultime-exprience-de-casino-en/)
-- [Zoom Casino: Quick Wins and High‑Intensity Slots for Busy Players](https://blog.ronrecord.com/index.php/2026/08/08/zoom-casino-quick-wins-and-highintensity-slots-for/)
-- [AmunRa Casino: Szybkie‑Automaty, Live Action i Natychmiastowe Wygrane – Ostateczne Doświadczenie Mobilne](https://blog.ronrecord.com/index.php/2026/08/07/amunra-casino-szybkieautomaty-live-action-i-natych/)
-- [King Chance Casino: Quick Play, Big Wins – A High‑Intensity Slot Experience](https://blog.ronrecord.com/index.php/2026/08/07/king-chance-casino-quick-play-big-wins-a-highinten/)
-- [FreshBet Casino Review: Slot Veloci e Gioco Lampo](https://blog.ronrecord.com/index.php/2026/08/07/freshbet-casino-review-slot-veloci-e-gioco-lampo/)
-- [cw-check-https://test.com/](https://blog.ronrecord.com/index.php/2026/08/07/cw-check-https-test-com/)
-- [Aktuelle_Alternativen_rund_um_ohne_oasis_casino_für_erfahrene_Nutzer](https://blog.ronrecord.com/index.php/2026/08/07/aktuelle-alternativen-rund-um-ohne-oasis-casino/)
-- [Strategie_výher_v_online_hrách_a_casino_22bet_pro_nové_i_zkušené_hráče](https://blog.ronrecord.com/index.php/2026/08/07/strategie-vyher-v-online-hrach-a-casino-22bet-pro/)
-- [Royal Reels Casino: Quick‑Hit Slots for the Fast‑Paced Player](https://blog.ronrecord.com/index.php/2026/08/06/royal-reels-casino-quickhit-slots-for-the-fastpace/)
-- [Xon.Bet – Quick‑Hit Slots &amp; High‑Intensity Gaming Experience](https://blog.ronrecord.com/index.php/2026/08/06/xonbet-quickhit-slots-highintensity-gaming-experie/)
+- [Prime Casino Review: UK Welcome Bonus, Game Range &amp; Mobile Experience](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-review-uk-welcome-bonus-game-range-mobile-experience/)
+- [Prime Casino registration steps for UK players](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-registration-steps-for-uk-players/)
+- [Prime Casino UK payment methods: fast deposits and quick withdrawals](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-uk-payment-methods-fast-deposits-and-quick-withdrawals/)
+- [Prime Casino UK Guide – Bonuses, Payments, Mobile App &amp; Security](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-uk-guide-bonuses-payments-mobile-app-security/)
+- [Prime Casino review – UK guide](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-review-uk-guide/)
+- [King Hills security guide: licensing, data protection &amp; safe play for UK players](https://blog.ronrecord.com/index.php/2026/08/10/king-hills-security-guide-licensing-data-protection-safe-play-for-uk-players/)
+- [King Hills bonus guide: welcome offers, weekly reloads &amp; cashback for UK](https://blog.ronrecord.com/index.php/2026/08/10/king-hills-bonus-guide-welcome-offers-weekly-reloads-cashback-for-uk/)
+- [King Hills bonus guide: £200 welcome match, weekly reloads &amp; free spins explained](https://blog.ronrecord.com/index.php/2026/08/10/king-hills-bonus-guide-ps200-welcome-match-weekly-reloads-free-spins-explained/)
+- [King Hills casino UK payment methods: fast, secure options for UK players](https://blog.ronrecord.com/index.php/2026/08/10/king-hills-casino-uk-payment-methods-fast-secure-options-for-uk-players/)
+- [How to verify your King Hills UK account: step‑by‑step guide](https://blog.ronrecord.com/index.php/2026/08/10/how-to-verify-your-king-hills-uk-account-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
