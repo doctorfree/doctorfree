@@ -62,16 +62,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Ilucki Casino: Quick Wins, Rapid Play and Instant Thrills](https://blog.ronrecord.com/index.php/2026/08/11/ilucki-casino-quick-wins-rapid-play-and-instant-th/)
+- [King Hills payment methods: instant deposits and fast UK withdrawals](https://blog.ronrecord.com/index.php/2026/08/11/king-hills-payment-methods-instant-deposits-and-fast-uk-withdrawals/)
+- [GoldenBet review: UK guide to bonuses, payments, mobile betting &amp; security](https://blog.ronrecord.com/index.php/2026/08/11/goldenbet-review-uk-guide-to-bonuses-payments-mobile-betting-security/)
+- [Royal Reels16 Casino: Quick‑Hit Slots and Instant Wins for the Fast‑Paced Player](https://blog.ronrecord.com/index.php/2026/08/11/royal-reels16-casino-quickhit-slots-and-instant-wi/)
+- [MonsterWin Casino: Sumérgete en tragamonedas de alta‑intensidad y diversión en apuestas deportivas](https://blog.ronrecord.com/index.php/2026/08/11/monsterwin-casino-sumrgete-en-tragamonedas-de-alta/)
 - [Prime Casino Review: UK Welcome Bonus, Game Range &amp; Mobile Experience](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-review-uk-welcome-bonus-game-range-mobile-experience/)
 - [Prime Casino registration steps for UK players](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-registration-steps-for-uk-players/)
 - [Prime Casino UK payment methods: fast deposits and quick withdrawals](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-uk-payment-methods-fast-deposits-and-quick-withdrawals/)
 - [Prime Casino UK Guide – Bonuses, Payments, Mobile App &amp; Security](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-uk-guide-bonuses-payments-mobile-app-security/)
 - [Prime Casino review – UK guide](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-review-uk-guide/)
-- [King Hills security guide: licensing, data protection &amp; safe play for UK players](https://blog.ronrecord.com/index.php/2026/08/10/king-hills-security-guide-licensing-data-protection-safe-play-for-uk-players/)
-- [King Hills bonus guide: welcome offers, weekly reloads &amp; cashback for UK](https://blog.ronrecord.com/index.php/2026/08/10/king-hills-bonus-guide-welcome-offers-weekly-reloads-cashback-for-uk/)
-- [King Hills bonus guide: £200 welcome match, weekly reloads &amp; free spins explained](https://blog.ronrecord.com/index.php/2026/08/10/king-hills-bonus-guide-ps200-welcome-match-weekly-reloads-free-spins-explained/)
-- [King Hills casino UK payment methods: fast, secure options for UK players](https://blog.ronrecord.com/index.php/2026/08/10/king-hills-casino-uk-payment-methods-fast-secure-options-for-uk-players/)
-- [How to verify your King Hills UK account: step‑by‑step guide](https://blog.ronrecord.com/index.php/2026/08/10/how-to-verify-your-king-hills-uk-account-step-by-step-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
