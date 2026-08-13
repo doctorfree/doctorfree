@@ -62,6 +62,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Inspiration_ludique_autour_de_betify_casino_pour_des_joueurs_passionnés_et_exig](https://blog.ronrecord.com/index.php/2026/08/12/inspiration-ludique-autour-de-betify-casino-pour/)
+- [Vegasino: Sinun Täydellinen Kohteesi Nopeatempoisille Slotseille ja Nopeille Voitoille](https://blog.ronrecord.com/index.php/2026/08/12/vegasino-sinun-tydellinen-kohteesi-nopeatempoisill/)
+- [Chicken Road: Juego de Crash Rápido para el Jugador Veloz](https://blog.ronrecord.com/index.php/2026/08/11/chicken-road-juego-de-crash-rpido-para-el-jugador/)
 - [Ilucki Casino: Quick Wins, Rapid Play and Instant Thrills](https://blog.ronrecord.com/index.php/2026/08/11/ilucki-casino-quick-wins-rapid-play-and-instant-th/)
 - [King Hills payment methods: instant deposits and fast UK withdrawals](https://blog.ronrecord.com/index.php/2026/08/11/king-hills-payment-methods-instant-deposits-and-fast-uk-withdrawals/)
 - [GoldenBet review: UK guide to bonuses, payments, mobile betting &amp; security](https://blog.ronrecord.com/index.php/2026/08/11/goldenbet-review-uk-guide-to-bonuses-payments-mobile-betting-security/)
@@ -69,9 +72,6 @@
 - [MonsterWin Casino: Sumérgete en tragamonedas de alta‑intensidad y diversión en apuestas deportivas](https://blog.ronrecord.com/index.php/2026/08/11/monsterwin-casino-sumrgete-en-tragamonedas-de-alta/)
 - [Prime Casino Review: UK Welcome Bonus, Game Range &amp; Mobile Experience](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-review-uk-welcome-bonus-game-range-mobile-experience/)
 - [Prime Casino registration steps for UK players](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-registration-steps-for-uk-players/)
-- [Prime Casino UK payment methods: fast deposits and quick withdrawals](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-uk-payment-methods-fast-deposits-and-quick-withdrawals/)
-- [Prime Casino UK Guide – Bonuses, Payments, Mobile App &amp; Security](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-uk-guide-bonuses-payments-mobile-app-security/)
-- [Prime Casino review – UK guide](https://blog.ronrecord.com/index.php/2026/08/10/prime-casino-review-uk-guide/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
