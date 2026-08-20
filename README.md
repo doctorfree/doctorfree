@@ -62,6 +62,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Gwin9 – Quick‑Hit Casino Adventures for the Fast‑Paced Player](https://blog.ronrecord.com/index.php/2026/08/19/gwin9-quickhit-casino-adventures-for-the-fastpaced/)
+- [Navigating Aviator’s interface feels oddly intuitive, even for complete rookies](https://blog.ronrecord.com/index.php/2026/08/19/navigating-aviators-interface-feels-oddly-intuitive-even-for-complete-rookies/)
+- [Test Post Created](https://blog.ronrecord.com/index.php/2026/08/19/test-post-created-5/)
 - [Navigating the Aviator Game’s Interface Feels Surprisingly Intuitive](https://blog.ronrecord.com/index.php/2026/08/18/navigating-the-aviator-games-interface-feels-surprisingly-intuitive/)
 - [Test Post Created](https://blog.ronrecord.com/index.php/2026/08/18/test-post-created-4/)
 - [Test Post Created](https://blog.ronrecord.com/index.php/2026/08/18/test-post-created-3/)
@@ -69,9 +72,6 @@
 - [Инновации_от_производства_до_логистики_чер-42258762](https://blog.ronrecord.com/index.php/2026/08/18/innovacii-ot-proizvodstva-do-logistiki-cher-2/)
 - [Həftə_sonu_əyləncəsi_üçün_klassik_pinup_yaradıcılığının_incəlikl](https://blog.ronrecord.com/index.php/2026/08/18/hft-sonu-ylncsi-ucun-klassik-pinup-yaradclnn/)
 - [Серьезный_анализ_boostwin_казино_и_перспективы](https://blog.ronrecord.com/index.php/2026/08/18/sereznyj-analiz-boostwin-kazino-i-perspektivy/)
-- [Şanslı_anlar_və_pin_up_casino_dünyasına_səyahət_etmək_üçün_ən_yaxş](https://blog.ronrecord.com/index.php/2026/08/18/ansl-anlar-v-pin-up-casino-dunyasna-syaht-etmk/)
-- [Möhkəm_təməllər_qoyun_innovativ_həllər_tapın_güvənli_seçim_edərək_p](https://blog.ronrecord.com/index.php/2026/08/18/mohkm-tmllr-qoyun-innovativ-hllr-tapn-guvnli-secim/)
-- [Maraqlı_oyun_aləmi_və_pin_up_casino_hər_bir_oyunçu_üçün_xüsusi_imkanlar](https://blog.ronrecord.com/index.php/2026/08/18/maraql-oyun-almi-v-pin-up-casino-hr-bir-oyuncu/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
