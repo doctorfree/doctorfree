@@ -62,16 +62,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Lucky17 : guide complet du bonus Lucky 8 et promotions](https://blog.ronrecord.com/index.php/2026/09/26/lucky17-guide-complet-du-bonus-lucky-8-et-promotions/)
-- [Casino Lucky 8 – guide sécurité complet de Lucky16](https://blog.ronrecord.com/index.php/2026/09/26/casino-lucky-8-guide-securite-complet-de-lucky16/)
-- [Lucky15 : guide du Lucky 8 – bonus, inscription, paiement et stratégies](https://blog.ronrecord.com/index.php/2026/09/26/lucky15-guide-du-lucky-8-bonus-inscription-paiement-et-strategies/)
-- [Lucky14 – Bonus Lucky 8 : guide de vérification du compte](https://blog.ronrecord.com/index.php/2026/09/26/lucky14-bonus-lucky-8-guide-de-verification-du-compte/)
-- [Lucky12 : guide d’inscription et activation du lucky 8 bonus](https://blog.ronrecord.com/index.php/2026/09/26/lucky12-guide-d-inscription-et-activation-du-lucky-8-bonus/)
-- [Dragonia Casino Online – App &amp; Mobile Guide für Registrierung, Bonus &amp; sichere Zahlungen](https://blog.ronrecord.com/index.php/2026/09/26/dragonia-casino-online-app-mobile-guide-fur-registrierung-bonus-sichere-zahlungen/)
-- [Cleobetra Registrierung: Schritt‑für‑Schritt Anleitung für deutsche Spieler](https://blog.ronrecord.com/index.php/2026/09/26/cleobetra-registrierung-schritt-fur-schritt-anleitung-fur-deutsche-spieler/)
-- [Hellspin Casino Australia Login – Complete Guide for Aussie Players](https://blog.ronrecord.com/index.php/2026/09/26/hellspin-casino-australia-login-complete-guide-for-aussie-players/)
-- [Fugu Casino Erfahrungen – Alles, was deutsche Spieler wissen müssen](https://blog.ronrecord.com/index.php/2026/09/26/fugu-casino-erfahrungen-alles-was-deutsche-spieler-wissen-mussen/)
-- [1Go Casino Kontoverifizierung – Schritt‑für‑Schritt Anleitung für deutsche Spieler](https://blog.ronrecord.com/index.php/2026/09/26/1go-casino-kontoverifizierung-schritt-fur-schritt-anleitung-fur-deutsche-spieler/)
+- [Baloo Casino Nederland: Een Praktijkgerichte Review van Bonus, Spellen en Speelgedrag in 2026](https://blog.ronrecord.com/index.php/2026/09/27/baloo-casino-nederland-een-praktijkgerichte-review-van-bonus-spellen-en-speelgedrag-in-2026/)
+- [Bet365 Ireland steps and methods](https://blog.ronrecord.com/index.php/2026/09/27/bet365-ireland-steps-and-methods/)
+- [Leon Casino Australia: steps and methods for Aussie players](https://blog.ronrecord.com/index.php/2026/09/27/leon-casino-australia-steps-and-methods-for-aussie-players/)
+- [Novibet review: app and mobile guide for Irish players](https://blog.ronrecord.com/index.php/2026/09/27/novibet-review-app-and-mobile-guide-for-irish-players/)
+- [Lucky31 France : guide complet de l’application mobile Lucky36](https://blog.ronrecord.com/index.php/2026/09/27/lucky31-france-guide-complet-de-l-application-mobile-lucky36/)
+- [Lucky35 – Guide complet de la connexion lucky31 pour les joueurs français](https://blog.ronrecord.com/index.php/2026/09/27/lucky35-guide-complet-de-la-connexion-lucky31-pour-les-joueurs-francais/)
+- [Crownplay casino online : aperçu complet et options pour les joueurs français](https://blog.ronrecord.com/index.php/2026/09/26/crownplay-casino-online-apercu-complet-et-options-pour-les-joueurs-francais/)
+- [Crownplay France : ce qu’il faut savoir](https://blog.ronrecord.com/index.php/2026/09/26/crownplay-france-ce-qu-il-faut-savoir/)
+- [Crownplay Casino France : guide complet de l’application mobile](https://blog.ronrecord.com/index.php/2026/09/26/crownplay-casino-france-guide-complet-de-l-application-mobile/)
+- [Lucky 8 : guide complet de l’app mobile Lucky11](https://blog.ronrecord.com/index.php/2026/09/26/lucky-8-guide-complet-de-l-app-mobile-lucky11/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
