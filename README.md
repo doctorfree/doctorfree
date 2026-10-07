@@ -62,16 +62,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Aviator Predictor APK App Bonus Guide](https://blog.ronrecord.com/index.php/2026/10/05/aviator-predictor-apk-app-bonus-guide/)
-- [Télécharger One X Bet – guide complet, bonus, paiement et sécurité](https://blog.ronrecord.com/index.php/2026/10/05/telecharger-one-x-bet-guide-complet-bonus-paiement-et-securite/)
-- [Aviator V1 APK Download: What You Need to Know](https://blog.ronrecord.com/index.php/2026/10/05/aviator-v1-apk-download-what-you-need-to-know/)
-- [Pin Up UZ kazino: eng yaxshi o’yinlar va bonus takliflari haqida ma’lumot](https://blog.ronrecord.com/index.php/2026/10/05/pin-up-uz-kazino-eng-yaxshi-o-yinlar-va-bonus-takliflari-haqida-ma-lumot/)
-- [Guide till Casino Utan Svensk Licens 2026: Spela tryggt med EU-licenser och snabba](https://blog.ronrecord.com/index.php/2026/10/05/guide-till-casino-utan-svensk-licens-2026-spela-tryggt-med-eu-licenser-och-snabba/)
-- [What to expect from Online Casino Australia 2026: A closer look at games and](https://blog.ronrecord.com/index.php/2026/10/05/what-to-expect-from-online-casino-australia-2026-a-closer-look-at-games-and/)
-- [Fast and safe payment options at the best online casino South Africa: A player’s](https://blog.ronrecord.com/index.php/2026/10/05/fast-and-safe-payment-options-at-the-best-online-casino-south-africa-a-player-s/)
-- [Neosurf Casino Australia 2026: Instant deposits and secure gaming for every player](https://blog.ronrecord.com/index.php/2026/10/05/neosurf-casino-australia-2026-instant-deposits-and-secure-gaming-for-every-player/)
-- [Everything you need to know about deposits at PayID Pokies Australia: A practical guide](https://blog.ronrecord.com/index.php/2026/10/05/everything-you-need-to-know-about-deposits-at-payid-pokies-australia-a-practical-guide/)
-- [Malina Casino Polska: top 5 gier, które musisz wypróbować w 2026 roku](https://blog.ronrecord.com/index.php/2026/10/05/malina-casino-polska-top-5-gier-ktore-musisz-wyprobowac-w-2026-roku/)
+- [Igni Casino kasino – sovellus ja mobiilikokemus opas](https://blog.ronrecord.com/index.php/2026/10/06/igni-casino-kasino-sovellus-ja-mobiilikokemus-opas/)
+- [Igni Casino &lpar;igni bet casino&rpar; – Rekisteröitymisohjeet ja KYC Suomessa](https://blog.ronrecord.com/index.php/2026/10/06/igni-casino-igni-bet-casino-rekisteroitymisohjeet-ja-kyc-suomessa/)
+- [IgnI Casino luotettava sovellus‑ ja mobiiliguide – pelaa missä tahansa](https://blog.ronrecord.com/index.php/2026/10/06/igni-casino-luotettava-sovellus-ja-mobiiliguide-pelaa-missa-tahansa/)
+- [Igni Casino FI – maksutavat, talletusmenetelmät ja nopeat nostot](https://blog.ronrecord.com/index.php/2026/10/06/igni-casino-fi-maksutavat-talletusmenetelmat-ja-nopeat-nostot/)
+- [Lonkero Casino kirjaudu – Täydellinen opas rekisteröintiin, bonuksiin ja maksutapoihin](https://blog.ronrecord.com/index.php/2026/10/06/lonkero-casino-kirjaudu-taydellinen-opas-rekisterointiin-bonuksiin-ja-maksutapoihin/)
+- [Nine app bonus guide – £200 match bonus, 50 free spins and wagering requirements explained](https://blog.ronrecord.com/index.php/2026/10/06/nine-app-bonus-guide-ps200-match-bonus-50-free-spins-and-wagering-requirements-explained/)
+- [Nine games steps and methods – registration, bonuses &amp; play at Nine Casino](https://blog.ronrecord.com/index.php/2026/10/06/nine-games-steps-and-methods-registration-bonuses-play-at-nine-casino/)
+- [Casino Nine registration steps: Easy sign‑up guide for UK players](https://blog.ronrecord.com/index.php/2026/10/06/casino-nine-registration-steps-easy-sign-up-guide-for-uk-players/)
+- [FreshBet Casino app and mobile guide for UK players](https://blog.ronrecord.com/index.php/2026/10/06/freshbet-casino-app-and-mobile-guide-for-uk-players/)
+- [FreshBet games security guide: UK players’ safety overview](https://blog.ronrecord.com/index.php/2026/10/06/freshbet-games-security-guide-uk-players-safety-overview/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
