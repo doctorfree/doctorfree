@@ -62,16 +62,16 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Igni Casino kasino – sovellus ja mobiilikokemus opas](https://blog.ronrecord.com/index.php/2026/10/06/igni-casino-kasino-sovellus-ja-mobiilikokemus-opas/)
-- [Igni Casino &lpar;igni bet casino&rpar; – Rekisteröitymisohjeet ja KYC Suomessa](https://blog.ronrecord.com/index.php/2026/10/06/igni-casino-igni-bet-casino-rekisteroitymisohjeet-ja-kyc-suomessa/)
-- [IgnI Casino luotettava sovellus‑ ja mobiiliguide – pelaa missä tahansa](https://blog.ronrecord.com/index.php/2026/10/06/igni-casino-luotettava-sovellus-ja-mobiiliguide-pelaa-missa-tahansa/)
-- [Igni Casino FI – maksutavat, talletusmenetelmät ja nopeat nostot](https://blog.ronrecord.com/index.php/2026/10/06/igni-casino-fi-maksutavat-talletusmenetelmat-ja-nopeat-nostot/)
-- [Lonkero Casino kirjaudu – Täydellinen opas rekisteröintiin, bonuksiin ja maksutapoihin](https://blog.ronrecord.com/index.php/2026/10/06/lonkero-casino-kirjaudu-taydellinen-opas-rekisterointiin-bonuksiin-ja-maksutapoihin/)
-- [Nine app bonus guide – £200 match bonus, 50 free spins and wagering requirements explained](https://blog.ronrecord.com/index.php/2026/10/06/nine-app-bonus-guide-ps200-match-bonus-50-free-spins-and-wagering-requirements-explained/)
-- [Nine games steps and methods – registration, bonuses &amp; play at Nine Casino](https://blog.ronrecord.com/index.php/2026/10/06/nine-games-steps-and-methods-registration-bonuses-play-at-nine-casino/)
-- [Casino Nine registration steps: Easy sign‑up guide for UK players](https://blog.ronrecord.com/index.php/2026/10/06/casino-nine-registration-steps-easy-sign-up-guide-for-uk-players/)
-- [FreshBet Casino app and mobile guide for UK players](https://blog.ronrecord.com/index.php/2026/10/06/freshbet-casino-app-and-mobile-guide-for-uk-players/)
-- [FreshBet games security guide: UK players’ safety overview](https://blog.ronrecord.com/index.php/2026/10/06/freshbet-games-security-guide-uk-players-safety-overview/)
+- [Roletto Casino – What UK Players Need to Know](https://blog.ronrecord.com/index.php/2026/10/07/roletto-casino-what-uk-players-need-to-know/)
+- [Avantgarde promo code steps and methods for UK players](https://blog.ronrecord.com/index.php/2026/10/07/avantgarde-promo-code-steps-and-methods-for-uk-players/)
+- [Avantgarde casino bonus – what UK players need to know](https://blog.ronrecord.com/index.php/2026/10/07/avantgarde-casino-bonus-what-uk-players-need-to-know/)
+- [Avantgarde Casino Withdrawal Guide for UK Players – Fast &amp; Secure](https://blog.ronrecord.com/index.php/2026/10/07/avantgarde-casino-withdrawal-guide-for-uk-players-fast-secure/)
+- [Candy Land Casino review – How to verify your account in the UK](https://blog.ronrecord.com/index.php/2026/10/07/candy-land-casino-review-how-to-verify-your-account-in-the-uk/)
+- [1Red slots in the UK: Full guide to registration, bonuses, payments and mobile play](https://blog.ronrecord.com/index.php/2026/10/07/1red-slots-in-the-uk-full-guide-to-registration-bonuses-payments-and-mobile-play/)
+- [LuckyWave online casino bonus guide – UK welcome offers &amp; wagering terms](https://blog.ronrecord.com/index.php/2026/10/07/luckywave-online-casino-bonus-guide-uk-welcome-offers-wagering-terms/)
+- [LuckyWave UK steps and methods guide](https://blog.ronrecord.com/index.php/2026/10/07/luckywave-uk-steps-and-methods-guide/)
+- [LuckyWave online casino bonus guide](https://blog.ronrecord.com/index.php/2026/10/07/luckywave-online-casino-bonus-guide/)
+- [LuckyWave mobile overview and options](https://blog.ronrecord.com/index.php/2026/10/07/luckywave-mobile-overview-and-options/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
